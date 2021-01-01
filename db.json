@@ -2,7 +2,7 @@
      {
           "id": 1,
           "author_id": 1,
-          "author_name": "author1"
+          "author_name": "author1",
           "title": "크리스마스의 노예",
           "image": "https://candykick.github.io/picrew_gallery/photos/All/p1.png",
           "date": "2020.12.25",
@@ -13,7 +13,7 @@
      {
           "id": 2,
           "author_id": 1,
-          "author_name": "author1"
+          "author_name": "author1",
           "title": "나는 어제 교수님을 죽였다",
           "image": "https://s3.ap-northeast-2.amazonaws.com/eos.heroine/series/65a269289fabff329a2acd3d67c04deb.jpg",
           "date": "2020.12.27",
@@ -24,7 +24,7 @@
      {
           "id": 3,
           "author_id": 2,
-          "author_name": "작가작가"
+          "author_name": "작가작가",
           "title": "일단 로맨스입니다.",
           "image": "https://candykick.github.io/picrew_gallery/photos/All/u1.png",
           "date": "2020.12.27",
@@ -35,7 +35,7 @@
      {
           "id": 4,
           "author_id": 3,
-          "author_name": "EOS"
+          "author_name": "EOS",
           "title": "창의력이 부족하므로 생략합니다.",
           "image": "https://candykick.github.io/picrew_gallery/photos/All/u2.png",
           "date": "2020.12.28",
@@ -46,7 +46,7 @@
      {
           "id": 5,
           "author_id": 3,
-          "author_name": "EOS"
+          "author_name": "EOS",
           "title": "새해 목표 다들 세우셨나요?",
           "image": "https://candykick.github.io/picrew_gallery/photos/All/i1.png",
           "date": "2021.01.01",
