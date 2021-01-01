@@ -1,57 +1,59 @@
-[
-     {
-          "id": 1,
-          "author_id": 1,
-          "author_name": "author1",
-          "title": "크리스마스의 노예",
-          "image": "https://candykick.github.io/picrew_gallery/photos/All/p1.png",
-          "date": "2020.12.25",
-          "introduction": "대학원생인 나는 크리스마스에도 일을 한다.",
-          "hash_tag": "크리스마스, 노예, 일, 대학원",
-          "series_num": 4
-     },
-     {
-          "id": 2,
-          "author_id": 1,
-          "author_name": "author1",
-          "title": "나는 어제 교수님을 죽였다",
-          "image": "https://s3.ap-northeast-2.amazonaws.com/eos.heroine/series/65a269289fabff329a2acd3d67c04deb.jpg",
-          "date": "2020.12.27",
-          "introduction": "이유는 터무니없다. 학점을 너무 짜게 줬기 때문이다. 내가 지 수업만 듣는 줄 아는건가?",
-          "hash_tag": "스릴러, 교수, 학점",
-          "series_num": 1
-     },
-     {
-          "id": 3,
-          "author_id": 2,
-          "author_name": "작가작가",
-          "title": "일단 로맨스입니다.",
-          "image": "https://candykick.github.io/picrew_gallery/photos/All/u1.png",
-          "date": "2020.12.27",
-          "introduction": "몰라 로맨스인걸로 하자 일단",
-          "hash_tag": "로맨스, BTS, 엑소",
-          "series_num": 0
-     },
-     {
-          "id": 4,
-          "author_id": 3,
-          "author_name": "EOS",
-          "title": "창의력이 부족하므로 생략합니다.",
-          "image": "https://candykick.github.io/picrew_gallery/photos/All/u2.png",
-          "date": "2020.12.28",
-          "introduction": "무엇을 적어야 할까요",
-          "hash_tag": "창의력, 없음, BTS, 스릴러",
-          "series_num": 5
-     },
-     {
-          "id": 5,
-          "author_id": 3,
-          "author_name": "EOS",
-          "title": "새해 목표 다들 세우셨나요?",
-          "image": "https://candykick.github.io/picrew_gallery/photos/All/i1.png",
-          "date": "2021.01.01",
-          "introduction": "저는 숨쉬기가 목표입니다.",
-          "hash_tag": "새해, 목표, 2021, 노예",
-          "series_num": 1
-     }
-]
+{
+     "series":[
+          {
+               "id": 1,
+               "author_id": 1,
+               "author_name": "author1",
+               "title": "크리스마스의 노예",
+               "image": "https://candykick.github.io/picrew_gallery/photos/All/p1.png",
+               "date": "2020.12.25",
+               "introduction": "대학원생인 나는 크리스마스에도 일을 한다.",
+               "hash_tag": "크리스마스, 노예, 일, 대학원",
+               "series_num": 4
+          },
+          {
+               "id": 2,
+               "author_id": 1,
+               "author_name": "author1",
+               "title": "나는 어제 교수님을 죽였다",
+               "image": "https://s3.ap-northeast-2.amazonaws.com/eos.heroine/series/65a269289fabff329a2acd3d67c04deb.jpg",
+               "date": "2020.12.27",
+               "introduction": "이유는 터무니없다. 학점을 너무 짜게 줬기 때문이다. 내가 지 수업만 듣는 줄 아는건가?",
+               "hash_tag": "스릴러, 교수, 학점",
+               "series_num": 1
+          },
+          {
+               "id": 3,
+               "author_id": 2,
+               "author_name": "작가작가",
+               "title": "일단 로맨스입니다.",
+               "image": "https://candykick.github.io/picrew_gallery/photos/All/u1.png",
+               "date": "2020.12.27",
+               "introduction": "몰라 로맨스인걸로 하자 일단",
+               "hash_tag": "로맨스, BTS, 엑소",
+               "series_num": 0
+          },
+          {
+               "id": 4,
+               "author_id": 3,
+               "author_name": "EOS",
+               "title": "창의력이 부족하므로 생략합니다.",
+               "image": "https://candykick.github.io/picrew_gallery/photos/All/u2.png",
+               "date": "2020.12.28",
+               "introduction": "무엇을 적어야 할까요",
+               "hash_tag": "창의력, 없음, BTS, 스릴러",
+               "series_num": 5
+          },
+          {
+               "id": 5,
+               "author_id": 3,
+               "author_name": "EOS",
+               "title": "새해 목표 다들 세우셨나요?",
+               "image": "https://candykick.github.io/picrew_gallery/photos/All/i1.png",
+               "date": "2021.01.01",
+               "introduction": "저는 숨쉬기가 목표입니다.",
+               "hash_tag": "새해, 목표, 2021, 노예",
+               "series_num": 1
+          }
+     ]
+}
