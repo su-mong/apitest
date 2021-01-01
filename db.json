@@ -55,5 +55,56 @@
                "hash_tag": "새해, 목표, 2021, 노예",
                "series_num": 1
           }
+     ],
+     "writing/list":[
+          {
+               "id": 12,
+               "episode_num": 1,
+               "title": "대학원생인 나는 크리스마스에도 일을 한다.",
+               "image": "https://candykick.github.io/picrew_gallery/photos/All/p1.png",
+               "date": "2020.12.25 15:34:12",
+               "music": ""
+          },
+          {
+               "id": 15,
+               "episode_num": 2,
+               "title": "노예에게 휴가란 존재하지 않는다.",
+               "image": "https://candykick.github.io/picrew_gallery/photos/All/p1.png",
+               "date": "2020.12.26 19:31:24",
+               "music": ""
+          },
+          {
+               "id": 26,
+               "episode_num": 3,
+               "title": "연말이지만 나는 일을 한다.",
+               "image": "https://candykick.github.io/picrew_gallery/photos/All/m3.png",
+               "date": "2020.12.30 23:54:43",
+               "music": ""
+          },
+          {
+               "id":33,
+               "episode_num": 4,
+               "title": "드디어 막내 생활을 청산하다",
+               "image": "https://candykick.github.io/picrew_gallery/photos/All/p1.png",
+               "date": "2021.01.01 12:00:01",
+               "music": ""
+          },
+     ],
+     "author/all": [
+          {
+               "id": 1,
+               "name": "author1",
+               "profile": "https://candykick.github.io/picrew_gallery/photos/All/p1.png"
+          },
+          {
+               "id": 2,
+               "name": "작가작가",
+               "profile": "https://candykick.github.io/picrew_gallery/photos/All/u1.png"
+          },
+          {
+               "id": 3,
+               "name": "EOS",
+               "profile": "https://s3.ap-northeast-2.amazonaws.com/eos.heroine/series/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2021-01-01+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+3.54.10.png"
+          },
      ]
 }
