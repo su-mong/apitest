@@ -56,7 +56,7 @@
                "series_num": 1
           }
      ],
-     "writing/list":[
+     "writing":[
           {
                "id": 12,
                "episode_num": 1,
@@ -90,7 +90,7 @@
                "music": ""
           }
      ],
-     "author/all": [
+     "author": [
           {
                "id": 1,
                "name": "author1",
