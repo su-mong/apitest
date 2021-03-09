@@ -1,4 +1,62 @@
 {
+     "channelInfo":[
+          {
+               "image": "https://raw.githubusercontent.com/Candykick/apitest/main/Images/original.jpg",
+               "title": "206sound",
+               "stock": 1674,
+               "isUp": true,
+               "variation": 123,
+               "percent": 10.2
+          },
+          {
+               "image": "https://raw.githubusercontent.com/Candykick/apitest/main/Images/original-2.jpg",
+               "title": "와나나",
+               "stock": 7451,
+               "isUp": true,
+               "variation": 353,
+               "percent": 6.1
+          },
+          {
+               "image": "https://raw.githubusercontent.com/Candykick/apitest/main/Images/original-3.jpg",
+               "title": "팍플레이",
+               "stock": 5911,
+               "isUp": false,
+               "variation": 92,
+               "percent": 1.1
+          },
+          {
+               "image": "https://raw.githubusercontent.com/Candykick/apitest/main/Images/original-4.jpg",
+               "title": "앰비션",
+               "stock": 16493,
+               "isUp": false,
+               "variation": 210,
+               "percent": 4.8
+          },
+          {
+               "image": "https://raw.githubusercontent.com/Candykick/apitest/main/Images/original-5.jpg",
+               "title": "AVIENCLOUD",
+               "stock": 52780,
+               "isUp": true,
+               "variation": 1910,
+               "percent": 5.0
+          },
+          {
+               "image": "https://raw.githubusercontent.com/Candykick/apitest/main/Images/original-6.jpg",
+               "title": "xkito music",
+               "stock": 96310,
+               "isUp": false,
+               "variation": 6890,
+               "percent": 12.1
+          },
+          {
+               "image": "https://raw.githubusercontent.com/Candykick/apitest/main/Images/original-7.jpg",
+               "title": "Shal.E",
+               "stock": 3963,
+               "isUp": true,
+               "variation": 363,
+               "percent": 5.5
+          }
+     ],
      "series":[
           {
                "id": 1,
