@@ -3,7 +3,7 @@
           "timestamp": "2021-03-11T03:26:37.153+00:00",
           "status": 404,
           "error": "Not Found",
-          "message": "",
+          "message": "연결이 불가능한 상태입니다.",
           "path": "/login"
      },
      "channelInfo":[
