@@ -1,0 +1,116 @@
+"channelLiveChart":[
+     {
+          "dateTime": "16:56:14",
+          "stock": 4500,
+          "isUp": true, 
+          "variation": 20,
+          "volume": 6035
+     },
+     {
+          "dateTime": "16:56:15",
+          "stock": 4530,
+          "isUp": true, 
+          "variation": 30,
+          "volume": 321
+     },
+     {
+          "dateTime": "16:59:01",
+          "stock": 4509,
+          "isUp": false, 
+          "variation": 21,
+          "volume": 189
+     },
+     {
+          "dateTime": "17:03:29",
+          "stock": 4465,
+          "isUp": false, 
+          "variation": 44,
+          "volume": 9153
+     },
+     {
+          "dateTime": "17:12:00",
+          "stock": 4501,
+          "isUp": true, 
+          "variation": 36,
+          "volume": 17
+     },
+     {
+          "dateTime": "17:19:41",
+          "stock": 4520,
+          "isUp": true, 
+          "variation": 19,
+          "volume": 1234
+     },
+     {
+          "dateTime": "17:22:29",
+          "stock": 4630,
+          "isUp": true, 
+          "variation": 110,
+          "volume": 12573
+     },
+     {
+          "dateTime": "17:45:29",
+          "stock": 4600,
+          "isUp": false, 
+          "variation": 30,
+          "volume": 4201
+     }
+],
+"channelDayChart": [
+     {
+          "dateTime": "21/03/01",
+          "stock": 4500,
+          "isUp": true, 
+          "variation": 20,
+          "volume": 6035
+     },
+     {
+          "dateTime": "21/03/02",
+          "stock": 4530,
+          "isUp": true, 
+          "variation": 30,
+          "volume": 321
+     },
+     {
+          "dateTime": "21/03/03",
+          "stock": 4509,
+          "isUp": false, 
+          "variation": 21,
+          "volume": 189
+     },
+     {
+          "dateTime": "21/03/04",
+          "stock": 4465,
+          "isUp": false, 
+          "variation": 44,
+          "volume": 9153
+     },
+     {
+          "dateTime": "21/03/05",
+          "stock": 4501,
+          "isUp": true, 
+          "variation": 36,
+          "volume": 17
+     },
+     {
+          "dateTime": "21/03/08",
+          "stock": 4520,
+          "isUp": true, 
+          "variation": 19,
+          "volume": 1234
+     },
+     {
+          "dateTime": "21/03/09",
+          "stock": 4630,
+          "isUp": true, 
+          "variation": 110,
+          "volume": 12573
+     },
+     {
+          "dateTime": "21/03/10",
+          "stock": 4600,
+          "isUp": false, 
+          "variation": 30,
+          "volume": 4201
+     }
+],
