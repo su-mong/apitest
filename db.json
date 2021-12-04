@@ -39,10 +39,10 @@
                     "stock": "6,000/20,000",
                     "registerDate": "2021.11.24 23:59:59",
                     "status": "정지"
-               },
+               }
           ],
           "statusCode": 200
-     }
+     },
      "channelInfo":{
           "id": "76eddd1az",
           "currentPrice": 88700,
