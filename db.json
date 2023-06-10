@@ -1,123 +1,24 @@
 {
-     "error":{
-          "timestamp": "2021-03-11T03:26:37.153+00:00",
-          "status": 404,
-          "error": "Not Found",
-          "message": "연결이 불가능한 상태입니다.",
-          "path": "/login"
-     },
-     "youtuber":{
+     "project":{
           "data": [
                {
-                    "name": "런닝맨-스브스 공식 채널",
-                    "price": "115,680,000,000",
-                    "subscriber": "6,110만명",
-                    "stock": "160,000/200,000",
-                    "registerDate": "2021.08.12 16:24:07",
-                    "status": "거래"
+                    "projectName": "기말고사 준비",
+                    "finishedTodoNumber": 3,
+                    "totalTodoNumber": 7,
+                    "markerBackgroundColor": "F2F9F9",
+                    "markerTextColor": "24A19C",
+                    "markerColorName": "green"
                },
                {
-                    "name": "DAZBEE",
-                    "price": "1,725,000,000",
-                    "subscriber": "500만명",
-                    "stock": "15,000/15,000",
-                    "registerDate": "2021.11.11 11:11:11",
-                    "status": "예정"
-               },
-               {
-                    "name": "와나나",
-                    "price": "45,123,000,000",
-                    "subscriber": "410만명",
-                    "stock": "12,000/60,000",
-                    "registerDate": "2021.11.17 16:45:23",
-                    "status": "옥션"
-               },
-               {
-                    "name": "AvienCloud",
-                    "price": "560,000,000",
-                    "subscriber": "99만명",
-                    "stock": "6,000/20,000",
-                    "registerDate": "2021.11.24 23:59:59",
-                    "status": "정지"
-               }
+                    "projectName": "대회준비",
+                    "finishedTodoNumber": 20,
+                    "totalTodoNumber": 35,
+                    "markerBackgroundColor": "FEF0E2",
+                    "markerTextColor": "FD8311",
+                    "markerColorName": "orange"
+                }
+           
           ],
           "statusCode": 200
-     },
-     "channelInfo":{
-          "id": "76eddd1az",
-          "currentPrice": 88700,
-          "currentPricePercent": -1.11,
-          "highPrice": 90000,
-          "highPricePercent": 0.33,
-          "lowPrice": 88600,
-          "lowPricePercent": -1.12,
-          "volume": 12161,
-          "transactionPrice": 5600,
-          "marketCapitalization": 94,
-          "majorShareholder": "우수몽",
-          "subscribers": 135,
-          "hits": 423752835,
-          "videoNum": 143,
-          "date": "2020/12/28",
-          "introductionVideo": "ARGupML36S8"
-     },
-     
-     "channelList":[
-          {
-               "image": "https://raw.githubusercontent.com/Candykick/apitest/main/Images/original.jpg",
-               "title": "206sound",
-               "stock": 1674,
-               "isUp": true,
-               "variation": 123,
-               "percent": 10.2
-          },
-          {
-               "image": "https://raw.githubusercontent.com/Candykick/apitest/main/Images/original-2.jpg",
-               "title": "와나나",
-               "stock": 7451,
-               "isUp": true,
-               "variation": 353,
-               "percent": 6.1
-          },
-          {
-               "image": "https://raw.githubusercontent.com/Candykick/apitest/main/Images/original-3.jpg",
-               "title": "팍플레이",
-               "stock": 5911,
-               "isUp": false,
-               "variation": 92,
-               "percent": 1.1
-          },
-          {
-               "image": "https://raw.githubusercontent.com/Candykick/apitest/main/Images/original-4.jpg",
-               "title": "앰비션",
-               "stock": 16493,
-               "isUp": false,
-               "variation": 210,
-               "percent": 4.8
-          },
-          {
-               "image": "https://raw.githubusercontent.com/Candykick/apitest/main/Images/original-5.jpg",
-               "title": "AVIENCLOUD",
-               "stock": 52780,
-               "isUp": true,
-               "variation": 1910,
-               "percent": 5.0
-          },
-          {
-               "image": "https://raw.githubusercontent.com/Candykick/apitest/main/Images/original-6.jpg",
-               "title": "xkito music",
-               "stock": 96310,
-               "isUp": false,
-               "variation": 6890,
-               "percent": 12.1
-          },
-          {
-               "image": "https://raw.githubusercontent.com/Candykick/apitest/main/Images/original-7.jpg",
-               "title": "Shal.E",
-               "stock": 3963,
-               "isUp": true,
-               "variation": 363,
-               "percent": 5.5
-          }
-     ]
+     }
 }
