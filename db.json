@@ -1,6 +1,5 @@
 {
-     "project":{
-          "data": [
+     "project":[
                {
                     "projectName": "기말고사 준비",
                     "finishedTodoNumber": 3,
@@ -18,7 +17,5 @@
                     "markerColorName": "orange"
                 }
            
-          ],
-          "statusCode": 200
-     }
+          ]
 }
