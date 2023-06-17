@@ -4,16 +4,16 @@
                     "projectName": "기말고사 준비",
                     "finishedTodoNumber": 3,
                     "totalTodoNumber": 7,
-                    "markerBackgroundColor": "F2F9F9",
-                    "markerTextColor": "24A19C",
+                    "markerBackgroundColor": "0xFFF2F9F9",
+                    "markerTextColor": "0xFF24A19C",
                     "markerColorName": "green"
                },
                {
                     "projectName": "대회준비",
                     "finishedTodoNumber": 20,
                     "totalTodoNumber": 35,
-                    "markerBackgroundColor": "FEF0E2",
-                    "markerTextColor": "FD8311",
+                    "markerBackgroundColor": "0xFFFEF0E2",
+                    "markerTextColor": "0xFFFD8311",
                     "markerColorName": "orange"
                 }
            
