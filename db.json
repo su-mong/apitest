@@ -42,6 +42,6 @@
                "due_time": "11:00",
                "due_date": "2023.06.20",
                "is_todo_done": false,
-          },
+          }
      ]
 }
