@@ -17,5 +17,31 @@
                     "markerColorName": "orange"
                 }
            
-          ]
+          ],
+     "todo": [
+          {
+               "project_name": "기말고사 준비",
+               "project_color": "0xFFF2F9F9",
+               "todo_name": "유체역학 기출문제 풀이",
+               "due_time": "16:00",
+               "due_date": "2023.06.20",
+               "is_todo_done": true,
+          },
+          {
+               "project_name": "건강한 삶 유지",
+               "project_color": "0xFF6200FF",
+               "todo_name": "PT",
+               "due_time": "20:00",
+               "due_date": "2023.06.20",
+               "is_todo_done": false,
+          },
+          {
+               "project_name": "대회준비",
+               "project_color": "0xFFFEF0E2",
+               "todo_name": "기획서 제출",
+               "due_time": "11:00",
+               "due_date": "2023.06.20",
+               "is_todo_done": false,
+          },
+     ]
 }
