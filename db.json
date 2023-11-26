@@ -43,5 +43,13 @@
                "due_date": "2023.06.20",
                "is_todo_done": false
           }
-     ]
+     ],
+     "graduation_project_c1": {
+          "isFake": false,
+          "appropriateTitle": "",
+     },
+     "graduation_project_c2": {
+          "isFake": true,
+          "appropriateTitle": "적절한 제목 01",
+     }
 }
