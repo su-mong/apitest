@@ -46,10 +46,10 @@
      ],
      "graduation_project_c1": {
           "isFake": false,
-          "appropriateTitle": "",
+          "appropriateTitle": ""
      },
      "graduation_project_c2": {
           "isFake": true,
-          "appropriateTitle": "적절한 제목 01",
+          "appropriateTitle": "적절한 제목 01"
      }
 }
